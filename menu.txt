@@ -4,10 +4,13 @@ bruschette
 
 #menu pesce
 branzino vasetto
+spaghetti vongole
 
 #menu carne
 taglietti crudo
+scarpariello
 
 
 #bibite
 acqua
+valdobbiadene
